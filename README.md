@@ -8,10 +8,10 @@ Essa é uma série de desafios básicos para que você possa praticar seus conhe
 
 ## Índice de desafios
 
-- [1. Glossário]()
-- [2. Formulário de Contato]()
-- [3. Lista de compras]()
-- [4. Quiz]()
-- [5. Blog Post]()
+- [1. Glossário](https://github.com/vitorgaletti/desafios-html/tree/main/1-glossario)
+- [2. Formulário de Contato](https://github.com/vitorgaletti/desafios-html/tree/main/2-formulario-de-contato)
+- [3. Lista de compras](https://github.com/vitorgaletti/desafios-html/tree/main/3-lista-de-compras)
+- [4. Quiz](https://github.com/vitorgaletti/desafios-html/tree/main/4-quiz)
+- [5. Blog Post](https://github.com/vitorgaletti/desafios-html/tree/main/5-blog-post)
 
 Feito com ♥ by Vitor Galeti :wave:
